@@ -3,4 +3,4 @@
 # Meu repositório
 ## Tarefas a fazer
 
-tenho que terminar isso hoje
+tenho que fazer estas tarefas hoje
