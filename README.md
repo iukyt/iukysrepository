@@ -1,7 +1,7 @@
 # iukysrepository
 
-# ola mundo / hello world
-## eu estou fazendo um novo site
-### Saiba mais
+# Meu repositório
+## Tarefas a fazer
 
-este e o meo...
+tenho que terminar isso hoje
+ou acabar até quinta-feira
