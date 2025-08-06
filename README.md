@@ -3,4 +3,5 @@
 # Meu repositório
 ## Tarefas a fazer
 
-tenho que terminar mes que vem
+tenho que terminar estas coisas hoje
+ou acabar até quinta-feira
